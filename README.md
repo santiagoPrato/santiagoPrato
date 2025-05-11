@@ -12,7 +12,7 @@
 
 - 🎓 **Student** of Computer Science at **FCEIA - UNR**
 - 💡 Passionate about **backend development**, algorithms, and tech in general
-- 🚀 Currently working with **Java**, **Spring**, and **SQL/NoSQL databases**
+- 🚀 Currently working with **Java**, **Spring**
 - 📘 Preparing for the **Cambridge First Certificate (FCE)**
 
 ---

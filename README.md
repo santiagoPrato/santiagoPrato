@@ -11,8 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Student** of Computer Science at **FCEIA - UNR**
-- 💡 Passionate about **backend development**, algorithms, and tech in general
-- 🚀 Currently working with **Java**, **Spring**
+- 💡 Passionate about **development**, algorithms, and tech in general
 - 📘 Preparing for the **Cambridge First Certificate (FCE)**
 
 ---
@@ -21,10 +20,6 @@
 
 ### 💻 Core Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
